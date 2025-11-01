@@ -10,3 +10,4 @@ Some side progets on the way!
 Contacts:
 Phone number- +39 3294567695
 Email- thilinafernando4575@gmail.com
+Linkedin - www.linkedin.com/in/thilina-fernando-b2b238397
