@@ -1,1 +1,5 @@
 ![Alt text](https://raw.githubusercontent.com/Thilinafernando/Thilinafernando/refs/heads/main/3AyY.gif)
+
+Currently enrolled in École 42’s Common Core.
+So far, I’ve worked mainly with C, C++, and Makefiles, diving deep into logic, memory, and structure.
+Always curious, and ready to learn.
