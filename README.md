@@ -6,3 +6,7 @@ Always curious, and ready to learn.
 
 As of this moment, learning advanced C++ concepts and exploring graphics programming. 
 Some side progets on the way!
+
+Contacts:
+Phone number- +39 3294567695
+Email- thilinafernando4575@gmail.com
